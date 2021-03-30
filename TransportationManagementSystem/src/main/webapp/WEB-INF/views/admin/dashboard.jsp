@@ -48,7 +48,7 @@ imgAdm{
 		<li><a href='<spring:url value="/admin/logout"/>'>logout</a> </li>
 	</ul>
 	
-<!-- <div class="bgded overlay" style="background-image:url('images/demo/backgrounds/adm.jpg');">  -->
+
 <div class="w3-sidebar w3-bar-block w3-black w3-card" style="width:130px">
   <h5 class="w3-bar-item">Menu</h5>
   <button class="w3-bar-item w3-button tablink" onclick="location.href='<spring:url value="/admin/ordersList" />' ">Show Orders List</button>

@@ -78,7 +78,7 @@ public class OrderController {
 	}
 
 	@GetMapping("/delete")
-	public String deleteOrder(/* @PathVariable(name = "oid") */ @RequestParam Integer oid) {
+	public String deleteOrder( @RequestParam Integer oid) {
 		System.out.println("in delete method oid " + oid);
 		orderService.deleteOrderById(oid);
 		return "redirect:/order/index";

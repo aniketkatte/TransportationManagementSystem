@@ -178,9 +178,7 @@ span.price {
           </div>
 
         </div>
-        <label>
-          <input type="checkbox" checked="checked" name="sameadr"> Shipping address same as billing
-        </label>
+        
         <table>
         <tr>
         <td>

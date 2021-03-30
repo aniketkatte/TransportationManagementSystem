@@ -97,7 +97,7 @@
         <article><a href="#"><i class="fas fa-eraser"></i></a>
           <h6 class="heading"><a href="#">1-3 DAYS TRANSIT TIME</a></h6>
           <p>
-Save on storage charges with YRC Transport. We provide 1-3 days shipping transit time to major sectors around the world - that's one of the fastest transit times!</p>
+Save on storage charges with YRC Transport. We provide 1-3 days shipping transit time to major sectors all over India  - that's one of the fastest transit times!</p>
           
         </article>
       </li>

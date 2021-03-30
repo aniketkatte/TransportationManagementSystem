@@ -19,7 +19,9 @@
     <div class="row">
         <div class="col-xs-12">
     		<div class="invoice-title">
-    			<h2>Invoice</h2><h3 class="pull-right">${sessionScope.myBill.oId}</h3>
+    			<h2>Invoice</h2><h3 class="pull-right">Order Id - ${sessionScope.myBill.oId}</h3>
+    			<br></br>
+    			<h3 align="center">YRC Transport</h3>
     		</div>
     		<hr>
     		<div class="row">

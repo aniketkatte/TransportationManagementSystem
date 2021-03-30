@@ -41,7 +41,7 @@ html {
 <div class="about-section">
   <h1>About Us Page</h1>
   <p> Over the years, YRC has pioneered in providing a safe and reliable delivery network in the field of parcel
-   service. It has spread its operations to Courier Service, Priority Cargo & Transport of Passengers by Air to meet the growing demands of its burgeoning customer base..</p>
+   service. It has spread its operations to Courier Service, Priority Cargo & Transport of goods to meet the growing demands of its burgeoning customer base..</p>
  
   <p>YRC Freight is the leading transporter of industrial, commercial, and retail goods, specializing in solutions for businesses across India through a full-service network, advanced information technologies, and proactive customer service</p>
 </div>
